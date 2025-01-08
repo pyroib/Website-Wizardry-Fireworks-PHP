@@ -1,23 +1,24 @@
-# wizardryfireworks.com ASP Custom CRM / CMS
+# wizardryfireworks.com PHP Custom CRM / CMS
 
 A CRM / CMS created for wizardryfireworks.com
 
 ## Getting Started
 
-copy all files to the inetpub\wwwroot folder
+copy all files to the root folder
 
 ### Prerequisites
 
-IIS
-ASP
-MS Database
+Apache
+PHP
+MySQL
 
 ## Built With
 
-- [ASP]
-- [MSDB]
-- [HTML]
+- [PHP](https://www.php.net)
+- [MySQL](https://www.mysql.com)
+- [JQuery](https://jquery.com)
 - [CSS]
+- [WAMP](https://www.mysql.com)
 
 ## Contributing
 
