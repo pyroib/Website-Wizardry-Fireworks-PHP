@@ -1,0 +1,10 @@
+* { margin:0px; padding:0px; }
+body { font-family:Arial, Helvetica, sans-serif; background-image: url(/images/mainbg_1024.jpg); background-repeat: no-repeat; background-color:#000000; margin:10px 0 0 9px; }
+img { border:0px; }
+.center { text-align: center; }
+a:visited { color: #FFFF99; }
+a:link { color: #FFFF99; }
+a:hover { color: #FFFF99; }
+.leftcell{ width:250px; text-align:center; }
+.rightcell{ width:610px; height: 550px; vertical-align: bottom; padding: 10px; }
+.floatright{ float:right; }

@@ -1,0 +1,75 @@
+* { margin:0px; padding:0px; }
+img { border:0px; }
+body { font-family:Arial, Helvetica, sans-serif; font-size:12px; background-image: url(images/bg_1024.jpg); background-repeat: no-repeat; background-color:#000000; margin:10px 0 0 9px; }
+a:visited { color: #FFFF99; }
+a:link { color: #FFFF99; }
+a:hover { color: #FFFF99; }
+fieldset{ border:0px; }
+.center { text-align: center; }
+.leftcell{ width:250px; text-align:center; }
+.rightcell{ width:610px; height: 550px; vertical-align: top; padding: 5px; }
+.floatright{ float:right; }
+.logo-text { border:solid 1px #FFFF88; height: 518px; }
+.logo-text p{ width:500px; margin: 0 auto 10px; }
+.table-top { background-image: url("/images/pageheader.jpg"); height: 15px; width: 610px; }
+
+.data-table-2col { width:500px; margin:0 auto 50px; }
+.data-table-2col td{ padding-left:10px; width: 200px; height:27px; }
+
+.data-table-2col-left { width:500px; margin:0 auto 50px; }
+.data-table-2col-left td{ padding-left:10px; width: 200px; height:27px; }
+
+.data-table-3col { width:500px; margin:0 auto 50px; }
+.data-table-3col td { padding:5px; }
+						
+						
+							
+.bold { font-weight:bold; }
+.tableborder { background-color: #FFFF88; }
+
+.largetable { background-color: #000000; margin-top:1px; margin-left:1px; margin-right:1px; margin-bottom:1px; }
+.maintable { margin-top:15px; margin-left:15px; margin-right:15px; margin-bottom:15px; }
+.news { color:#FFFFFF; text-align: left; }
+
+.news_head1 { background-color: grey; font-weight:bold; color:#FFFFFF; background-color: #999999; width:250px; }
+.news_head2 { background-color: grey; font-weight:bold; color:#FFFFFF; background-color: #999999; width:125px; }
+				
+	
+	
+.news_content { background-color: #999999; text-align: justify; color:#FFFFFF; background-position: left top; vertical-align: top; }
+.news_topic { background-color: #224444; color:#FFFFFF; }
+.news_post { background-color: #FFFFFF; }
+.news_date { background-color: #FFFF88;}
+.news_nav { text-align:center; background-color: #552244; font-weight:bold; color:#FFFF88; }
+.service_1 { background-image: url(images/smallcellbg_1.jpg); background-repeat: no-repeat; color:#FFFF88; }
+.service_2 { background-image: url(images/smallcellbg_2.jpg); background-repeat: no-repeat; color:#FFFF88; }
+.service_3 { background-image: url(images/smallcellbg_3.jpg); background-repeat: no-repeat; color:#FFFF88; }
+.service_4 { background-image: url(images/smallcellbg_4.jpg); background-repeat: no-repeat; color:#FFFF88; }
+.service_5 { background-image: url(images/smallcellbg_5.jpg); background-repeat: no-repeat; color:#FFFF88; }
+.service_6 { background-image: url(images/smallcellbg_6.jpg); background-repeat: no-repeat; color:#FFFF88; }
+.service_7 { background-image: url(images/smallcellbg_7.jpg); background-repeat: no-repeat; color:#FFFF88; }
+.profile_name { background-color: #224444; font-weight:bold; color:white; }
+.profile_years { background-color: #552244; ;  }
+.text { Font-face:Arial; color:#FFFF99; text-align: justify; }
+.emp_detail { background-color: #FFFFFF; }
+.emp_thanks { text-align:center; background-color: #552244; color:white; }
+.emp_top { background-color: #224444; color:#FFFFFF; }
+.emp_title { background-color: #FFFF88; }
+gal_thumbs { background-color: #FFFF88; }
+.contactus_name { background-color: #FFFFFF; }
+.contactus_name p { width:200px !important; } 
+.contactus_email { background-color: #224444; color:#FFFFFF; padding:10px; }
+.contactus_head { text-align:center; background-color: #552244; font-weight:bold; color: #FFFFFF; width:150px; }
+.affil_logo { background-color: #224444; color: #FFFFFF; padding-left:0px !important; }
+.affil_border { background-color: #552244; height:10px !important; padding:0px;}
+.affil_desc { Font-face:Arial; text-align: left; color:#FFFFFF; background-color: #999999; padding:10px; }
+.affil_desc p{ width: 200px; }
+.login { background-color: #224444; font-weight:bold; color:#FFFFFF; }
+.staffonly { background-color: #552244; font-weight:bold; color:#FFFFFF; }
+.staffbrowse { color:#FFFFFF; text-align: left; }
+.gallery{ text-align:center; margin:0 auto 40px; }
+
+.admin-table { margin:auto; }
+.admin-table p{ width:150px; color:#FFFFFF; }
+.admin-table td{ background-color: #224444; color:#FFFFFF; padding:5px; }
+.admin-table p.title{ background-color: #552244; padding:5px; }

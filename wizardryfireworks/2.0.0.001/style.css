@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { margin:0px; padding:0px; font-family: Arial, Helvetica, Sans Serif; font-size: 11px; color: #666; }
+body { background: #fff; }
+a:link, a:visited { color: #333333; text-decoration: none; font-weight: bold; }
+a:hover { color: #666666; text-decoration: none; font-weight: bold;}
+h1, h2, h3, h4, h5, h6 { font-size:12px; margin: 10px 0 0; }
+p { margin: 0 0 10px; }
+img { border:0px; }
+.margin0 { margin:0px; }
+.padding0 { padding:0px; }
+.padding10 { padding:10px; }
+.floatleft { float:left; }
+.floatright { float:right; }
+.clearboth { clear:both }
+.centertext { text-align: center; }
+.righttitle { padding: 1px; background-color:#ccc; }
+.maintitle { padding: 1px; background-color:#ccc; }
+.services-table { margin:auto; }
+.services-table a:link, .services-table a:visited, .services-table a:hover { color: #fff; font-weight: bold;}
+.services-table td{ background-repeat: no-repeat; color:#fff; width:240px; height:30px; padding-left:10px; }
+.service_1 { background-image: url(/images/smallcellbg_1.jpg); }
+.service_2 { background-image: url(/images/smallcellbg_2.jpg); }
+.service_3 { background-image: url(/images/smallcellbg_3.jpg); }
+.service_4 { background-image: url(/images/smallcellbg_4.jpg); }
+.service_5 { background-image: url(/images/smallcellbg_5.jpg); }
+.service_6 { background-image: url(/images/smallcellbg_6.jpg); }
+.service_7 { background-image: url(/images/smallcellbg_7.jpg); }
+.breakout img{ text-align:center; }
+.staff { border:1px solid #ccc; padding:10px; margin:0 0 20px; min-height:160px; }
+.staff h2 { font-size:14px; }
+.staff small { font-size:10px; margin:0 0 20px;  }
+.staff img { float:right; margin: 0 0 0 20px; }
+.link { text-align:center; border:solid #ccc 1px; padding:20px; margin:0 0 20px 0; }
+.link p { text-align:left; }
+.gallery td { width:400px; }
+
+.admin-table { margin:auto; border-top:solid #ccc 1px; border-left:solid #ccc 1px; }
+.admin-table p{ width:138px; }
+.admin-table td{ padding:5px; border-right:solid #ccc 1px; border-bottom:solid #ccc 1px; }
+.admin-table p.title{ background-color: #ccc; padding:5px; }
+
+
+#fireworks-sydney{ border:dashed 1px #cccccc; background-color:#eee; width:760px; margin: 20px auto 0; padding:20px; }
+#fireworks-sydney p { text-align:justify; }
+#mainborder { width:796px; border:solid 1px #ccc; margin: 20px auto; padding:2px; }
+#mainleft { float:left;  background:url("/images/swoosh.jpg") no-repeat scroll left bottom transparent; }
+#mainright { float:right }
+#breadcrumbs { border:solid 1px #ccc; width:644px; padding:3px; margin:0 0 3px; }
+#breadcrumbs ul{ list-style:none outside none; text-align:left; }
+#menu { border:solid 1px #ccc; float:left; width:141px; padding:2px; }
+#menu ul{ list-style:none outside none; }
+#menu li{ background: url("/images/menu_bg.jpg") no-repeat scroll 0% 0% transparent; text-align:left; height:20px; padding: 6px 0 0 10px; }
+#content { padding:2px; border:solid 1px #ccc; float:right; width:498px; text-align:left; min-height:600px; }	
+#login { border:solid 1px #ccc; padding:3px; width:134px; margin:0 0 3px; }
+#logo { border:solid 1px #ccc; padding:3px; width:134px; margin:0 0 3px; }
+#logo img{ width:125px; }
+#logo { border:solid 1px #ccc; padding:3px; width:134px; margin:0 0 3px; }
+#profile { border:solid 1px #ccc; padding:3px; width:134px; margin:0 0 3px; }
+#pgi { border:solid 1px #ccc; padding:3px; width:134px; margin:0 0 3px; }
+#pgi img{ width:125px; }
+#piaa { border:solid 1px #ccc; padding:3px; width:134px; margin:0 0 3px; }
+#piaa img{ width:125px; }
+#radio { border:solid 1px #ccc; padding:3px; width:134px; margin:0 0 3px; }
+#radio img{ width:125px; }
+#copyright { clear:both; }
+#employment { text-align:center; border-top:solid #ccc 1px; border-left:solid #ccc 1px; }
+#employment td{ padding:5px; border-right:solid #ccc 1px; border-bottom:solid #ccc 1px; }
+#employment p{ text-align:left; }
+#phone, #mail { border:solid 1px #ccc; width:193px; padding:20px; margin:0 0 20px; min-height:70px; }
+#phone p, #phone h2 , #mail p, #mail h2 { margin:0px; padding:0px; text-align:center; }
+#phone{ float:left; }
+#mail { float:right; }
+#contactus { border:solid 1px #ccc; clear:both; padding:20px;}
+#contactus fieldset { border:0px; }
+#contactus label, #contactus input { display:block; }
+#contactus label{ padding:10px 0; }
+#big_one { max-width:480px; }
